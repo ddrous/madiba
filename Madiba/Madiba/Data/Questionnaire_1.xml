@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<quiz>
+  <title>Science 001</title>
+  <date>2002-05-05</date>
+  <items>
+    <item>
+      <question>In which continent is the country Japan located?</question>
+      <answer correct="y">Asia</answer>
+      <answer>Europe</answer>
+      <answer>Africa</answer>
+      <answer>America</answer>
+    </item>
+    <item>
+      <question>Which one can fly?</question>
+      <answer correct="y">A pigeon</answer>
+      <answer>A rabbit</answer>
+      <answer>A pig</answer>
+      <answer>A lobster</answer>
+    </item>
+    <item>
+      <question>How many points are on a hexagon?</question>
+      <answer>5</answer>
+      <answer correct="y">6</answer>
+      <answer>7</answer>
+      <answer>8</answer>
+    </item>
+    <item>
+      <question>Which number is the largest?</question>
+      <answer>2</answer>
+      <answer>20</answer>
+      <answer>200</answer>
+      <answer correct="y">2000</answer>
+    </item>
+  </items>
+</quiz>

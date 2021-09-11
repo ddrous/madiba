@@ -1,0 +1,15 @@
+D:\Projects\Madiba\Madiba\Madiba\Madiba\bin\Debug\netstandard2.0\Madiba.deps.json
+D:\Projects\Madiba\Madiba\Madiba\Madiba\bin\Debug\netstandard2.0\Madiba.dll
+D:\Projects\Madiba\Madiba\Madiba\Madiba\bin\Debug\netstandard2.0\ref\Madiba.dll
+D:\Projects\Madiba\Madiba\Madiba\Madiba\bin\Debug\netstandard2.0\Madiba.pdb
+D:\Projects\Madiba\Madiba\Madiba\Madiba\obj\Debug\netstandard2.0\Madiba.csprojAssemblyReference.cache
+D:\Projects\Madiba\Madiba\Madiba\Madiba\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\Madiba\Madiba\Madiba\Madiba\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projects\Madiba\Madiba\Madiba\Madiba\obj\Debug\netstandard2.0\Madiba.AssemblyInfoInputs.cache
+D:\Projects\Madiba\Madiba\Madiba\Madiba\obj\Debug\netstandard2.0\Madiba.AssemblyInfo.cs
+D:\Projects\Madiba\Madiba\Madiba\Madiba\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projects\Madiba\Madiba\Madiba\Madiba\obj\Debug\netstandard2.0\Madiba.dll
+D:\Projects\Madiba\Madiba\Madiba\Madiba\obj\Debug\netstandard2.0\ref\Madiba.dll
+D:\Projects\Madiba\Madiba\Madiba\Madiba\obj\Debug\netstandard2.0\Madiba.pdb
+D:\Projects\Madiba\Madiba\Madiba\Madiba\obj\Debug\netstandard2.0\QuestionnaireEntryPage.xaml.g.cs
+D:\Projects\Madiba\Madiba\Madiba\Madiba\obj\Debug\netstandard2.0\QuestionnairesPage.xaml.g.cs
